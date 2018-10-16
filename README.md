@@ -1,3 +1,7 @@
-# Sentinel--2-Data-Processing
+# Open Source Geoprocessing Methodologies of Sentinel-2 -- Data Processing and Classification
 ## Overview
-Using ESA SNAP toolbox together with Sklearn and Jupyter notebook to perform land classification over Finland. Random forest algorithm with 20 trees has been utilized to perform the land classification.
+This repository provides scripts of basic remote sensing methodologies using Unix and Python. This repository covers workflow to perform image classification using machine learning and deep learning classifiers:
+
+*Preprocessing: Scripts that perform cropping, stacking and resampling of Sentinel-2 images,
+*Spectral indices: Unix scripts that calculate vegetation and water indices from Sentinel-2 images,
+*Classification: Python scripts that perform Land Cover Classification based on Machine Learning and Deep Learning classifiers
