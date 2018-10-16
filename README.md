@@ -23,8 +23,8 @@ _**Explanation of the files:**_
 *Calculates Normalised Difference Water Index By Gao*
 * NDWI2.sh
 *Calculates Normalised Difference Water Index By McFeeters*
-* vectorization_vector_file.py
-*Vectorization of a vector file*
+* rasterization_vector_file.py
+*Rasterization of a vector file*
 * classification.py
 *Performs image classification based on a Machine Learning Classifiers*
 * RNN_keras_python.py
